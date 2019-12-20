@@ -11,8 +11,8 @@ import java.io.*;
 public class MainFrame extends JFrame
 {
 	//this is the main class of the app
-    static private final int WIDTH = 700;
-    static private final int HEIGHT = 500;
+    static private final int WIDTH = 1200;
+    static private final int HEIGHT = 700;
 
     private Double[] coefficients;
 
